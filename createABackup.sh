@@ -2,7 +2,8 @@
 #T he path of the folder to back up
 backup_files="/home/"
 
-# Backup destination pathdest="/tmp"
+# Backup destination path !-- not final --!
+dest="/tmp"
 
 # Create arhive filename
 currentDate=`date +%Y-%m-%d`
